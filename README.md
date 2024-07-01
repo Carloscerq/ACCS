@@ -5,10 +5,10 @@ Projeto do grupo três (Equipe 3) da ACCS de Oficina de projetos em inteligênci
 ## Relatórios
 
 Os relatórios da equipe podem ser encontrados na pasta `Relatorios`:
-- [Primeiro relatório](https://github.com/Carloscerq/ACCS/blob/main/Relatorios/Relat%C3%B3rio%201%20-%20Pr%C3%A9-processamento%20e%20An%C3%A1lise%20de%20Dados.pdff)
-- [Segundo relatório](https://github.com/Carloscerq/ACCS/blob/main/Relatorios/Relat%C3%B3rio%202%20-%20Algoritmo%20de%20Aprendizado%20de%20M%C3%A1quina.pdf)
-- [Terceiro relatório](https://github.com/Carloscerq/ACCS/blob/main/Relatorios/Relat%C3%B3rio%203%20-%20An%C3%A1lise%20dos%20Resultados.pdf)
-- [Quarto relatório](https://github.com/Carloscerq/ACCS/blob/main/Relatorios/Relat%C3%B3rio%204%20-%20Entrega%20do%20modelo.pdf)
+- [Relatório 1 - Pré-processamento e Análise de Dados](https://github.com/Carloscerq/ACCS/blob/main/Relatorios/Relat%C3%B3rio%201%20-%20Pr%C3%A9-processamento%20e%20An%C3%A1lise%20de%20Dados.pdf)
+- [Relatório 2 - Algoritmo de Aprendizado de Máquina](https://github.com/Carloscerq/ACCS/blob/main/Relatorios/Relat%C3%B3rio%202%20-%20Algoritmo%20de%20Aprendizado%20de%20M%C3%A1quina.pdf)
+- [Relatório 3 - Análise dos Resultados](https://github.com/Carloscerq/ACCS/blob/main/Relatorios/Relat%C3%B3rio%203%20-%20An%C3%A1lise%20dos%20Resultados.pdf)
+- [Relatório 4 - Entrega do modelo](https://github.com/Carloscerq/ACCS/blob/main/Relatorios/Relat%C3%B3rio%204%20-%20Entrega%20do%20modelo.pdf)
 
 ## Integrantes
 
